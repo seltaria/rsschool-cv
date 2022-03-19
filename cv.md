@@ -1,6 +1,6 @@
 # **Anastasiia Bondareva**
 
----
++++
 
 ### **Contact information:**
 - **e-mail:** seltaria@mail.ru
@@ -8,7 +8,7 @@
 - **Discord:** seltaria#8878
 - **telegram:** @seltaria
     
----
++++
 
 ### About Me:
 Curious and ready to learn everything. I have great experience of team working and working with strong deadlines. Passed some courses and now I'm ready to try myself in Web-developent and Programming.
